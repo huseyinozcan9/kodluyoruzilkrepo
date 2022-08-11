@@ -3,6 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 # Installation
 Önceki projeyi klonlayın(https://github.com/huseyinozcan9/kodluyoruzilkrepo.git)
+
 ```bash
 git clone https://github.com/huseyinozcan9/kodluyoruzilkrepo.git
 ````
