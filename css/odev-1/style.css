@@ -1,0 +1,26 @@
+body {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    list-style-position: inside
+  }
+header{
+    font-size: 100px;
+}
+nav{
+    font-size: 75px;
+}
+h2{
+    color: darkblue;
+    font-size: 50px;
+}
+h3{
+    color: blueviolet;
+    font-size: 25px;
+}
+ol{
+    font-size: 50px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
